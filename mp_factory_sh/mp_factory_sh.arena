@@ -1,0 +1,12 @@
+{
+	map			"mp_factory_sh"
+	longname	"Der Riese"
+	gametype	"dm war dom hc ctf"
+	description "COD:OL ^4Der Riese"
+	mapimage    "preview_mp_factory_sh"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}
