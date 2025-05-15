@@ -1,0 +1,12 @@
+{
+	map         "mp_village_night"
+	longname    "Blackout"
+	gametype    "war dm infect"
+	description "COD 4 Blackout"
+	mapimage    "preview_mp_village_night"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment "urban"
+	mappack	"27"
+}
