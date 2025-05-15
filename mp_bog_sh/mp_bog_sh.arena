@@ -1,0 +1,12 @@
+{
+	map			"mp_bog_sh"
+	longname	"Bog"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth"
+	description "MPUI_DESC_MAP_BOG_SH"
+	mapimage    "preview_mp_bog_sh"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}
