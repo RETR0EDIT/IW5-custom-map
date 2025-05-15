@@ -1,0 +1,12 @@
+{
+	map			"mp_void_v2"
+	longname	"Void V2"
+	gametype	"dm war"
+	description "^5COD 4 VOID V2 ^6By Terry ^7& Ported By ^5ZECxR3ap3rssssssssssssssss"
+	mapimage    "preview_mp_void_v2"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}

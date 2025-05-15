@@ -1,0 +1,12 @@
+{
+	map			"mp_pb4ia1"
+	longname	"Pb4ia1"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth"
+	description "Custom COD 4 Map"
+	mapimage    "preview_mp_pb4ia1"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}
