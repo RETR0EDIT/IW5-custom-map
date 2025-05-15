@@ -1,0 +1,12 @@
+{
+	map			"mp_bo2carrier"
+	longname	"Carrier"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth"
+	description "MPUI_DESC_MAP_BO2CARRIER"
+	mapimage    "preview_mp_bo2carrier"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}

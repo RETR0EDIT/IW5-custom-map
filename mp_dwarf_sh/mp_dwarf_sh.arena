@@ -1,0 +1,12 @@
+{
+    map         "mp_dwarf_sh"
+    longname    "Dwarf"
+    gametype    "dm war sab sab2 dom sd sd2 hc thc ctf koth"
+    description "MPUI_DESC_MAP_DWARF_SH"
+    mapimage    "preview_mp_dwarf_sh"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+    mappack     "27"
+}
