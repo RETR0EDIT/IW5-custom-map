@@ -1,0 +1,12 @@
+{
+	map		"mp_mw2_rust"
+	longname	"^2Tropical ^7Rust"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth"
+	description 	"Map By ^2Revox"
+	mapimage    	"preview_mp_crash_2"
+	mapoverlay  	"compass_overlay_map_blank"
+	allieschar  	"delta_multicam"
+	axischar    	"opforce_air"
+	environment	"urban"
+	mappack		"27"
+}
