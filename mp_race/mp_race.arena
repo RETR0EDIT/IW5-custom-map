@@ -1,0 +1,12 @@
+{
+	map			"mp_race"
+	longname	"Race"
+	gametype	"war"
+	description "Race from CoD4"
+	mapimage    "mp_swift_load"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}
