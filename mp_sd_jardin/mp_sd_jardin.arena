@@ -1,0 +1,12 @@
+{
+	map			"mp_sd_jardin"
+	longname	"Royal Garden"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth"
+	description "MPUI_DESC_MAP_SD_JARDIN"
+	mapimage    "preview_mp_sd_jardin"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}
