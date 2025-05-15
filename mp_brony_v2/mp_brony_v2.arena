@@ -1,0 +1,12 @@
+{
+	map			"mp_brony_v2"
+	longname	"Brony"
+	gametype	"war"
+	description "Brony"
+	mapimage    "plutonium_logo"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}

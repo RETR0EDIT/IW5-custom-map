@@ -1,0 +1,12 @@
+{
+	map			"mp_mtl_the_rock"
+	longname	"MTL The Rock"
+	gametype	"dm war sab sab2 dom sd sd2 hc thc ctf koth"
+	description "Custom COD 4 map"
+	mapimage    "preview_mp_mtl_the_rock"
+	mapoverlay  "compass_overlay_map_blank"
+	allieschar  "delta_multicam"
+	axischar    "opforce_air"
+	environment	"urban"
+	mappack		"27"
+}
